@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lucas95santos/lucas95santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Would you like to find me?
 
