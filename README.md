@@ -86,8 +86,9 @@
 - **Serverless on AWS** — Lambda-based APIs, async processing with SNS/SQS and EventBridge, distributed caching with Redis
 - **Software architecture** — DDD, Clean/Hexagonal Architecture, SOLID, API design and versioning
 - **API security** — authentication, authorization, and rate limiting
-- **Observability** — structured logging, distributed tracing, and metrics with OpenTelemetry, Dynatrace, and CloudWatch
+- **Observability** — structured logging, distributed tracing, and metrics with OpenTelemetry, Grafana, and CloudWatch
 - **Technical leadership** — architecture decisions, code review, engineering standards, and mentoring
+- **AI engineering** — AI-assisted development (Cursor, Claude Code), LLM-powered agents with tool calling and MCP integrations, RAG pipelines (embeddings, vector search, retrieval and chunking strategies), prompt engineering, and evaluation and guardrails for production AI features
 
 ---
 
